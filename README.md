@@ -8,7 +8,7 @@ Right now I'm on placement at STMicroelectronics, building agentic vision-langua
 
 ## Projects
 
-**[Lothian Bus Tracker]([https://github.com/Hamish-MarshallDawson/REPO-NAME](https://github.com/Hamish-MarshallDawson/Lothian-Api-Bus-Display))**
+**[Lothian Bus Tracker](https://github.com/Hamish-MarshallDawson/Lothian-Api-Bus-Display)**
 Live Lothian Buses departures on a Raspberry Pi. Written in C++ so rendering stays smooth on low-power hardware, pulling from public transport APIs.
 
 **[LocalMind](https://github.com/Hamish-MarshallDawson/LocalMind)**
