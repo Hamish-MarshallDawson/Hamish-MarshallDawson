@@ -8,10 +8,10 @@ Right now I'm on placement at STMicroelectronics, building agentic vision-langua
 
 ## Projects
 
-**[Lothian Bus Tracker](https://github.com/Hamish-MarshallDawson/REPO-NAME)**
+**[Lothian Bus Tracker]([https://github.com/Hamish-MarshallDawson/REPO-NAME](https://github.com/Hamish-MarshallDawson/Lothian-Api-Bus-Display))**
 Live Lothian Buses departures on a Raspberry Pi. Written in C++ so rendering stays smooth on low-power hardware, pulling from public transport APIs.
 
-**LocalMind**
+**[LocalMind](https://github.com/Hamish-MarshallDawson/LocalMind)**
 A self-hosted vision-language model platform running on my own RTX 5080. The frontend lives on a Proxmox server, I reach it over Tailscale, and Wake-on-LAN boots the GPU machine only when a request comes in. It handles document retrieval, web search and voice input as tools. Making public soon :D
 
 **Robotic arm object swapping** (dissertation, 89/100)
