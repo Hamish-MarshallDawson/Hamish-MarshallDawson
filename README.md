@@ -17,7 +17,7 @@ A self-hosted vision-language model platform running on my own RTX 5080. The fro
 **Robotic arm object swapping** (dissertation, 89/100)
 An arm that identifies and swaps real objects using OpenCV and a visual-action model, controlled by spoken commands through speech recognition and an LLM.
 
-**[Smart Home Simulator]**
+**Smart Home Simulator**
 A serverless smart care home platform, designed around older users. I led the team of eight that built it.
 
 <!-- Add the itch.io game here with a link if you're happy for recruiters to see it. -->
@@ -25,6 +25,8 @@ A serverless smart care home platform, designed around older users. I led the te
 ## Research
 
 Summer 2025 at Heriot-Watt studying how input latency affects performance and trust when teleoperating a robot arm. I ran a 12-participant study and built the ROS simulation used to inject delay. The paper is accepted at British HCI 2026.
+
+The paper can be read here: [Exploring delay and its impact on trust in teleoperated robots](https://researchportal.hw.ac.uk/en/publications/exploring-delay-and-its-impact-on-trust-in-teleoperated-robots/)**
 
 ## What I use
 
